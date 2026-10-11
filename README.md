@@ -19,7 +19,7 @@ I'm **Meiirbek Berdibek**, a second-year **Software Engineering student at Astan
 <td width="50%"><a href="https://github.com/BAITC-Hacks/hack-316738af-bek"><img src="https://raw.githubusercontent.com/Mikosh001/Mikosh001/main/project-qurylym.svg?v=2" width="100%" alt="Qurylym AI: compare documents and organizational structures. React, FastAPI, OpenAI API." /></a></td>
 <td width="50%"><a href="https://github.com/Mikosh001/Hackaton-NU"><img src="https://raw.githubusercontent.com/Mikosh001/Mikosh001/main/project-speakspace.svg?v=2" width="100%" alt="SpeakSpace: AI roleplay for English practice. React, NestJS, Gemini AI." /></a></td>
 </tr><tr>
-<td width="50%"><a href="https://github.com/Mikosh001/Hackaton-Agro-Tex-qostanai"><img src="https://raw.githubusercontent.com/Mikosh001/Mikosh001/main/project-profession.svg?v=2" width="100%" alt="Profession 2.0: adaptive courses, portfolios and job matching. React, Express, Prisma, PostgreSQL." /></a></td>
+<td width="50%"><a href="https://github.com/Mikosh001/offline-music-player"><img src="https://raw.githubusercontent.com/Mikosh001/Mikosh001/main/project-music.svg?v=2" width="100%" alt="Offline Music Player: import audio, store your library on-device and listen offline. PWA, IndexedDB, JavaScript." /></a></td>
 <td width="50%"><a href="https://github.com/Mikosh001/MisComm-Game"><img src="https://raw.githubusercontent.com/Mikosh001/Mikosh001/main/project-miscomm.svg?v=2" width="100%" alt="MisComm Game: real-time trilingual team game. Node.js, Socket.IO." /></a></td>
 </tr></table>
 

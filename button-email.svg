@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="62" viewBox="0 0 240 62" role="img" aria-labelledby="title"><title id="title">GMAIL</title>
+<rect x="1" y="1" width="238" height="60" rx="13" fill="#0c120f" stroke="#bba2ff" stroke-opacity="0.6"/>
+<g transform="translate(29 31)" fill="none" stroke="#bba2ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="-11" y="-8" width="22" height="16" rx="3"/><path d="M-10 -6L0 1L10 -6"/></g>
+<path d="M53 17V45" stroke="#bba2ff" stroke-opacity=".25"/>
+<text x="68" y="37" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#eef3e8" font-weight="700" letter-spacing="1.1">GMAIL</text>
+</svg>

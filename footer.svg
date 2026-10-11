@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title"><title id="title">Let us build something useful. Open to internships, hackathons and thoughtful collaborations.</title><defs></defs>
+<rect x="1" y="1" width="1198" height="158" rx="22" fill="#0c120f" stroke="#2b382d"/>
+<rect x="28" y="31" width="4" height="97" rx="2" fill="#c6ff3d"/>
+<text x="51" y="48" fill="#c6ff3d" font-family="Consolas, monospace" font-size="12" letter-spacing="1.6">HAVE AN IDEA?</text>
+<text x="49" y="98" fill="#f2f4ee" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="700" letter-spacing="-1">Let’s build something useful.</text>
+<text x="51" y="128" fill="#a9b5a4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" >Internships · Hackathons · Thoughtful collaborations</text>
+<path d="M1091 107L1140 58M1091 58H1140V107" stroke="#c6ff3d" stroke-width="3" fill="none"/>
+</svg>

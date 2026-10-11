@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="262" viewBox="0 0 580 262" role="img" aria-labelledby="title"><title id="title">TOLQYN AI: Forecast oil and object drift across the Caspian Sea. Built with REACT  /  FASTAPI  /  OPENCV.</title><defs><radialGradient id="glow" cx="100%" cy="0%" r="100%"><stop stop-color="#67e8f9" stop-opacity=".14"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="578" height="260" rx="20" fill="#0c120f" stroke="#2b382d"/>
+<path d="M388 1H560Q579 1 579 20V160" fill="url(#glow)"/>
+<text x="25" y="35" fill="#67e8f9" font-family="Consolas, monospace" font-size="11" letter-spacing="1.6">ENVIRONMENT / SIMULATION</text>
+<g stroke="#67e8f9" stroke-width="2" fill="none" opacity=".8"><path d="M431 56Q454 30 478 56T525 56M431 78Q454 52 478 78T525 78M431 100Q454 74 478 100T525 100"/><circle cx="482" cy="39" r="4"/></g>
+<text x="23" y="100" fill="#f2f4ee" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="-1">TOLQYN AI</text>
+<text x="25" y="140" fill="#afbaab" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" >Forecast oil and object drift</text>
+<text x="25" y="166" fill="#afbaab" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" >across the Caspian Sea.</text>
+<path d="M25 194H555" stroke="#2a372c"/>
+<text x="25" y="227" fill="#c6d0c0" font-family="Consolas, monospace" font-size="10" letter-spacing="1.6">REACT  /  FASTAPI  /  OPENCV</text>
+<text x="533" y="230" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" >↗</text>
+</svg>

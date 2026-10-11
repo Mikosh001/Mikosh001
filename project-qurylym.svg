@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="262" viewBox="0 0 580 262" role="img" aria-labelledby="title"><title id="title">Qurylym AI: Compare organizational structures. Find evidence. Export clear results. Built with REACT  /  FASTAPI  /  OPENAI API.</title><defs><radialGradient id="glow" cx="100%" cy="0%" r="100%"><stop stop-color="#c6ff3d" stop-opacity=".14"/><stop offset="1" stop-color="#c6ff3d" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="578" height="260" rx="20" fill="#0c120f" stroke="#2b382d"/>
+<path d="M388 1H560Q579 1 579 20V160" fill="url(#glow)"/>
+<text x="25" y="35" fill="#c6ff3d" font-family="Consolas, monospace" font-size="11" letter-spacing="1.6">AI / DOCUMENT INTELLIGENCE</text>
+<g stroke="#c6ff3d" stroke-width="2" fill="none" opacity=".8"><path d="M465 35H509L528 54V109H465Z"/><path d="M509 35V54H528M476 70H515M476 82H506M476 94H511"/><path d="M446 49H435V126H498V117"/></g>
+<text x="23" y="100" fill="#f2f4ee" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="-1">Qurylym AI</text>
+<text x="25" y="140" fill="#afbaab" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" >Compare organizational structures.</text>
+<text x="25" y="166" fill="#afbaab" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" >Find evidence. Export clear results.</text>
+<path d="M25 194H555" stroke="#2a372c"/>
+<text x="25" y="227" fill="#c6d0c0" font-family="Consolas, monospace" font-size="10" letter-spacing="1.6">REACT  /  FASTAPI  /  OPENAI API</text>
+<text x="533" y="230" fill="#c6ff3d" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" >↗</text>
+</svg>
